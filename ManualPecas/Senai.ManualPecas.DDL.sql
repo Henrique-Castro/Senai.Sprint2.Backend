@@ -1,0 +1,18 @@
+CREATE DATABASE T_ManualPecas;
+
+USE T_ManualPecas;
+
+CREATE TABLE Fornecedores(
+	FornecedorId INT PRIMARY KEY NOT NULL,
+	Nome TEXT NOT NULL,
+	Email VARCHAR(255) NOT NULL UNIQUE,
+	Senha VARCHAR(35) NOT NULL
+);
+
+CREATE TABLE Pecas(
+	PecaId INT PRIMARY KEY IDENTITY NOT NULL,
+	Nome VARCHAR(255) NOT NULL,
+	Preco MONEY NOT NULL,
+	Quantidade INT NOT NULL,
+	FornecedorId INT FOREIGN KEY REFERENCES Fornecedores(FornecedorId)
+);

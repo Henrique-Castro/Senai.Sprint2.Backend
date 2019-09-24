@@ -1,0 +1,16 @@
+Microsoft.EntityFrameworkCore.SqlServer 2.1.11
+Microsoft.EntityFrameworkCore.SqlServer.Design 1.1
+Microsoft.EntityFrameworkCore.Tools 2.1.11
+
+SwashBuckle.AspNetCore.MicrosoftExtensions 0.5.0
+Swashbuckle.AspNetCore.SwaggerUI
+SwashStatistics_ChartingControl
+
+Scaffold-DbContext "Data Source=.\SqlExpress;Initial Catalog=T_Gufos;User Id=sa;Pwd=132;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Domains -ContextDir Contexts -Context GufosContext
+
+INSTALAR O CORS E CONFIGURAR NA STARTUP
+
+
+System.IdentityModel.Tokens.Jwt - 5.5.0 - CRIAR E VALIDAR O JWT
+Microsoft.AspNetCore.Authentication.JwtBearer - 2.1.1 - INTEGRAR A PARTE DE AUTENTICAÇÃO
+

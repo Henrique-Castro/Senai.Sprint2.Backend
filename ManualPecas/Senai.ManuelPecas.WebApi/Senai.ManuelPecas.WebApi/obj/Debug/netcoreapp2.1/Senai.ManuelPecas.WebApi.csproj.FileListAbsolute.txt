@@ -1,0 +1,14 @@
+C:\Users\46885473820\Documents\Git\Pessoal\SenaiLessons\API\ManualPecas\Senai.ManuelPecas.WebApi\Senai.ManuelPecas.WebApi\bin\Debug\netcoreapp2.1\Senai.ManuelPecas.WebApi.deps.json
+C:\Users\46885473820\Documents\Git\Pessoal\SenaiLessons\API\ManualPecas\Senai.ManuelPecas.WebApi\Senai.ManuelPecas.WebApi\bin\Debug\netcoreapp2.1\Senai.ManuelPecas.WebApi.runtimeconfig.json
+C:\Users\46885473820\Documents\Git\Pessoal\SenaiLessons\API\ManualPecas\Senai.ManuelPecas.WebApi\Senai.ManuelPecas.WebApi\bin\Debug\netcoreapp2.1\Senai.ManuelPecas.WebApi.runtimeconfig.dev.json
+C:\Users\46885473820\Documents\Git\Pessoal\SenaiLessons\API\ManualPecas\Senai.ManuelPecas.WebApi\Senai.ManuelPecas.WebApi\bin\Debug\netcoreapp2.1\Senai.ManuelPecas.WebApi.dll
+C:\Users\46885473820\Documents\Git\Pessoal\SenaiLessons\API\ManualPecas\Senai.ManuelPecas.WebApi\Senai.ManuelPecas.WebApi\obj\Debug\netcoreapp2.1\Senai.ManuelPecas.WebApi.csprojAssemblyReference.cache
+C:\Users\46885473820\Documents\Git\Pessoal\SenaiLessons\API\ManualPecas\Senai.ManuelPecas.WebApi\Senai.ManuelPecas.WebApi\obj\Debug\netcoreapp2.1\Senai.ManuelPecas.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\46885473820\Documents\Git\Pessoal\SenaiLessons\API\ManualPecas\Senai.ManuelPecas.WebApi\Senai.ManuelPecas.WebApi\obj\Debug\netcoreapp2.1\Senai.ManuelPecas.WebApi.RazorAssemblyInfo.cache
+C:\Users\46885473820\Documents\Git\Pessoal\SenaiLessons\API\ManualPecas\Senai.ManuelPecas.WebApi\Senai.ManuelPecas.WebApi\obj\Debug\netcoreapp2.1\Senai.ManuelPecas.WebApi.RazorAssemblyInfo.cs
+C:\Users\46885473820\Documents\Git\Pessoal\SenaiLessons\API\ManualPecas\Senai.ManuelPecas.WebApi\Senai.ManuelPecas.WebApi\obj\Debug\netcoreapp2.1\Senai.ManuelPecas.WebApi.AssemblyInfoInputs.cache
+C:\Users\46885473820\Documents\Git\Pessoal\SenaiLessons\API\ManualPecas\Senai.ManuelPecas.WebApi\Senai.ManuelPecas.WebApi\obj\Debug\netcoreapp2.1\Senai.ManuelPecas.WebApi.AssemblyInfo.cs
+C:\Users\46885473820\Documents\Git\Pessoal\SenaiLessons\API\ManualPecas\Senai.ManuelPecas.WebApi\Senai.ManuelPecas.WebApi\obj\Debug\netcoreapp2.1\Senai.ManuelPecas.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\46885473820\Documents\Git\Pessoal\SenaiLessons\API\ManualPecas\Senai.ManuelPecas.WebApi\Senai.ManuelPecas.WebApi\bin\Debug\netcoreapp2.1\Senai.ManuelPecas.WebApi.pdb
+C:\Users\46885473820\Documents\Git\Pessoal\SenaiLessons\API\ManualPecas\Senai.ManuelPecas.WebApi\Senai.ManuelPecas.WebApi\obj\Debug\netcoreapp2.1\Senai.ManuelPecas.WebApi.dll
+C:\Users\46885473820\Documents\Git\Pessoal\SenaiLessons\API\ManualPecas\Senai.ManuelPecas.WebApi\Senai.ManuelPecas.WebApi\obj\Debug\netcoreapp2.1\Senai.ManuelPecas.WebApi.pdb

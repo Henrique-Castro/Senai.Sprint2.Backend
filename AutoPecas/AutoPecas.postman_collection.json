@@ -1,0 +1,222 @@
+{
+	"info": {
+		"_postman_id": "44246b85-fb8b-4419-84a3-01c77a8cf974",
+		"name": "AutoPecas",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Usuarios",
+			"item": [
+				{
+					"name": "Cadastrar",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n\t\"email\" : \"hcdsfigueira@gmail.com\",\n\t\"senha\" : \"123456\"\n}"
+						},
+						"url": {
+							"raw": "localhost:5000/api/Usuarios",
+							"host": [
+								"localhost"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"Usuarios"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Login",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n\t\"email\" : \"hcdsfigueira@gmail.com\",\n\t\"senha\" : \"123456\"\n}"
+						},
+						"url": {
+							"raw": "localhost:5000/api/Login",
+							"host": [
+								"localhost"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"Login"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Listar",
+					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImhjZHNmaWd1ZWlyYUBnbWFpbC5jb20iLCJqdGkiOiIxIiwiZXhwIjoxNTY3Nzk1MzU3LCJpc3MiOiJBdXRvUGVjYXMuV2ViQXBpIiwiYXVkIjoiQXV0b1BlY2FzLldlYkFwaSJ9.rDL4tx7d6CXN4WELhh0h53dhV9Xz_RVMTL-8eUtMH3o",
+									"type": "string"
+								}
+							]
+						},
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "localhost:5000/api/Usuarios",
+							"host": [
+								"localhost"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"Usuarios"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Pecas",
+			"item": [
+				{
+					"name": "Cadastrar",
+					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImhjZHNmaWd1ZWlyYUBnbWFpbC5jb20iLCJqdGkiOiIxIiwiZXhwIjoxNTY3ODAxNTg0LCJpc3MiOiJBdXRvUGVjYXMuV2ViQXBpIiwiYXVkIjoiQXV0b1BlY2FzLldlYkFwaSJ9.KFlMbZCsYq7fKgdl7Yg32P_4J35Bo2tvmWIZmDztWmw",
+									"type": "string"
+								}
+							]
+						},
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"pecaCodigo\" : 152, \n    \"descricao\" : \"zé arruela\",\n    \"peso\" : 0.2 , \n    \"precoCusto\" :  2.0,\n    \"precoVenda\" :  4.0\n}"
+						},
+						"url": {
+							"raw": "localhost:5000/api/Pecas",
+							"host": [
+								"localhost"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"Pecas"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Fornecedores",
+			"item": [
+				{
+					"name": "Cadastrar",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n\t\"cnpj\" : \"43210987654321\",\n\t\"razaoSocial\" : \"A Company\",\n\t\"nomeFantasia\" : \"Not a Company\",\n\t\"endereco\" : \"Bb. BBBBB, 222\",\n\t\"usuarioVinculado\" : 2\n}"
+						},
+						"url": {
+							"raw": "localhost:5000/api/Fornecedores",
+							"host": [
+								"localhost"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"Fornecedores"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Listar",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "localhost:5000/api/Fornecedores",
+							"host": [
+								"localhost"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"Fornecedores"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "BuscarPorId",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "localhost:5000/api/Fornecedores/2",
+							"host": [
+								"localhost"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"Fornecedores",
+								"2"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}

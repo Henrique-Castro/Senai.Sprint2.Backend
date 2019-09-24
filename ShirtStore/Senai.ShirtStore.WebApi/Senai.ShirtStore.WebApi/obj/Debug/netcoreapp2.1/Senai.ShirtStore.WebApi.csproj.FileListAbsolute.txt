@@ -1,0 +1,14 @@
+C:\Users\46885473820\Documents\Git\Pessoal\SenaiLessons\API\ShirtStore\Senai.ShirtStore.WebApi\Senai.ShirtStore.WebApi\bin\Debug\netcoreapp2.1\Senai.ShirtStore.WebApi.deps.json
+C:\Users\46885473820\Documents\Git\Pessoal\SenaiLessons\API\ShirtStore\Senai.ShirtStore.WebApi\Senai.ShirtStore.WebApi\bin\Debug\netcoreapp2.1\Senai.ShirtStore.WebApi.runtimeconfig.json
+C:\Users\46885473820\Documents\Git\Pessoal\SenaiLessons\API\ShirtStore\Senai.ShirtStore.WebApi\Senai.ShirtStore.WebApi\bin\Debug\netcoreapp2.1\Senai.ShirtStore.WebApi.runtimeconfig.dev.json
+C:\Users\46885473820\Documents\Git\Pessoal\SenaiLessons\API\ShirtStore\Senai.ShirtStore.WebApi\Senai.ShirtStore.WebApi\bin\Debug\netcoreapp2.1\Senai.ShirtStore.WebApi.dll
+C:\Users\46885473820\Documents\Git\Pessoal\SenaiLessons\API\ShirtStore\Senai.ShirtStore.WebApi\Senai.ShirtStore.WebApi\obj\Debug\netcoreapp2.1\Senai.ShirtStore.WebApi.csprojAssemblyReference.cache
+C:\Users\46885473820\Documents\Git\Pessoal\SenaiLessons\API\ShirtStore\Senai.ShirtStore.WebApi\Senai.ShirtStore.WebApi\obj\Debug\netcoreapp2.1\Senai.ShirtStore.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\46885473820\Documents\Git\Pessoal\SenaiLessons\API\ShirtStore\Senai.ShirtStore.WebApi\Senai.ShirtStore.WebApi\obj\Debug\netcoreapp2.1\Senai.ShirtStore.WebApi.RazorAssemblyInfo.cache
+C:\Users\46885473820\Documents\Git\Pessoal\SenaiLessons\API\ShirtStore\Senai.ShirtStore.WebApi\Senai.ShirtStore.WebApi\obj\Debug\netcoreapp2.1\Senai.ShirtStore.WebApi.RazorAssemblyInfo.cs
+C:\Users\46885473820\Documents\Git\Pessoal\SenaiLessons\API\ShirtStore\Senai.ShirtStore.WebApi\Senai.ShirtStore.WebApi\obj\Debug\netcoreapp2.1\Senai.ShirtStore.WebApi.AssemblyInfoInputs.cache
+C:\Users\46885473820\Documents\Git\Pessoal\SenaiLessons\API\ShirtStore\Senai.ShirtStore.WebApi\Senai.ShirtStore.WebApi\obj\Debug\netcoreapp2.1\Senai.ShirtStore.WebApi.AssemblyInfo.cs
+C:\Users\46885473820\Documents\Git\Pessoal\SenaiLessons\API\ShirtStore\Senai.ShirtStore.WebApi\Senai.ShirtStore.WebApi\obj\Debug\netcoreapp2.1\Senai.ShirtStore.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\46885473820\Documents\Git\Pessoal\SenaiLessons\API\ShirtStore\Senai.ShirtStore.WebApi\Senai.ShirtStore.WebApi\bin\Debug\netcoreapp2.1\Senai.ShirtStore.WebApi.pdb
+C:\Users\46885473820\Documents\Git\Pessoal\SenaiLessons\API\ShirtStore\Senai.ShirtStore.WebApi\Senai.ShirtStore.WebApi\obj\Debug\netcoreapp2.1\Senai.ShirtStore.WebApi.dll
+C:\Users\46885473820\Documents\Git\Pessoal\SenaiLessons\API\ShirtStore\Senai.ShirtStore.WebApi\Senai.ShirtStore.WebApi\obj\Debug\netcoreapp2.1\Senai.ShirtStore.WebApi.pdb
